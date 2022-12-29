@@ -1,3 +1,6 @@
-id,name,sal
-101,Rixon Mathew,100
-102,Roshan Mathew, 200
+CallNumber,UnitID,IncidentNumber,CallType,CallDate,WatchDate,CallFinalDisposition,AvailableDtTm
+20110016,T13,2003235,Structure Fire,01/11/2002,01/10/2002,Other,01/11/2002 01:51:44 AM
+20110022,M17,2003241,Medical Incident,01/11/2002,01/10/2002,Other,01/11/2002 03:01:18 AM
+20110023,M41,2003242,Medical Incident,01/11/2002,01/10/2002,Other,01/11/2002 02:39:50 AM
+20110032,E11,2003250,Vehicle Fire,01/11/2002,01/10/2002,Other,01/11/2002 04:16:46 AM
+20110043,B04,2003259,Alarms,01/11/2002,01/10/2002,Other,01/11/2002 06:01:58 AM
